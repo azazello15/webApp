@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>WebApp</title>
+</head>
+<body>
+    <h1>Категории</h1>
+        <button name="Все" value="Все">Все</button>
+        <button name="Дизайн" value="Дизайн">Дизайн</button>
+        <button name="Образование" value="Образование">Образование</button>
+        <button name="IT, Технологии" value="IT, Технологии">IT, Технологии</button>
+        <button name="Бизнес" value="Бизнес">Бизнес</button>
+        <button name="Маркетинг" value="Маркетинг">Маркетинг</button>
+        <button name="Путешествия" value="Путешествия">Путешествия</button>
+        <button name="Недвижимость" value="Недвижимость">Недвижимость</button>
+        <button name="Медицина, здоровье" value="Медицина, здоровье">Медицина, здоровье</button>
+    <h1>Список каналов</h1>
+        <div>
+            {% for channel in channels %}
+                <h1>{{channel}}</h1>
+            {% endfor %}
+        </div>
+</body>
+</html>

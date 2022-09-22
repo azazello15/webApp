@@ -1,0 +1,107 @@
+[
+  {
+    "model": "myApp.channel",
+    "pk": 1,
+    "fields": {
+      "channel_name": "Канал1",
+      "channel_img": "1.jpg",
+      "channel_description": "Описание канала",
+      "channel_url": "t.me/iosfhdonac/",
+      "channel_stat": "tgstat.me/kjbanpeojabnc",
+      "channel_err": 123,
+      "channel_crm": 160,
+      "channel_coverage": 180,
+      "channel_category": "Дизайн"
+    }
+  },
+  {
+   "model": "myApp.channel",
+    "pk": 2,
+    "fields": {
+      "channel_name": "Канал2",
+      "channel_img": "2.jpg",
+      "channel_description": "Описание канала",
+      "channel_url": "t.me/jszdbvzo;knb/",
+      "channel_stat": "tgstat.me/icboyDVL",
+      "channel_err": 125,
+      "channel_crm": 161,
+      "channel_coverage": 181,
+      "channel_category": "Медицина и здоровье"
+    }
+  },
+  {
+    "model": "myApp.channel",
+    "pk": 3,
+    "fields": {
+      "channel_name": "Канал3",
+      "channel_img": "3.jpg",
+      "channel_description": "Описание канала",
+      "channel_url": "t.me/prokgeovkn/",
+      "channel_stat": "tgstat.me/caohw0e9uinc",
+      "channel_err": 122,
+      "channel_crm": 162,
+      "channel_coverage": 182,
+      "channel_category": "IT и технологии"
+    }
+  },
+    {
+   "model": "myApp.channel",
+    "pk": 4,
+    "fields": {
+      "channel_name": "Канал4",
+      "channel_img": "4.jpg",
+      "channel_description": "Описание канала",
+      "channel_url": "t.me/prokgeovkn/",
+      "channel_stat": "tgstat.me/caohw0e9uinc",
+      "channel_err": 122,
+      "channel_crm": 162,
+      "channel_coverage": 182,
+      "channel_category": "Образование"
+    }
+  },
+  {
+   "model": "myApp.channel",
+    "pk": 5,
+    "fields": {
+      "channel_name": "Канал5",
+      "channel_img": "5.jpg",
+      "channel_description": "Описание канала",
+      "channel_url": "t.me/prokgeovkn/",
+      "channel_stat": "tgstat.me/caohw0e9uinc",
+      "channel_err": 122,
+      "channel_crm": 162,
+      "channel_coverage": 182,
+      "channel_category": "Бизнес"
+    }
+  },
+  {
+    "model": "myApp.channel",
+    "pk": 6,
+    "fields": {
+      "channel_name": "Канал6",
+      "channel_img": "6.jpg",
+      "channel_description": "Описание канала",
+      "channel_url": "t.me/prokgeovkn/",
+      "channel_stat": "tgstat.me/caohw0e9uinc",
+      "channel_err": 122,
+      "channel_crm": 162,
+      "channel_coverage": 182,
+      "channel_category": "Маркетинг"
+    }
+  },
+  {
+    "model": "myApp.channel",
+    "pk": 7,
+    "fields": {
+      "channel_name": "Канал7",
+      "channel_img": "7.jpg",
+      "channel_description": "Описание канала",
+      "channel_url": "t.me/prokgeovkn/",
+      "channel_stat": "tgstat.me/caohw0e9uinc",
+      "channel_err": 122,
+      "channel_crm": 162,
+      "channel_coverage": 182,
+      "channel_category": "Недвижимость"
+    }
+  }
+]
